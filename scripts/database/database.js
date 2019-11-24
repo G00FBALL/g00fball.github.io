@@ -29,7 +29,7 @@ function generalData() {
                 Effect: "Increase the production of Enchanted Fields based on mana produced. <p> Formula: round(0.75 * x ^ 0.6)%, where x is your Mana Produced (This Game) stat."
             },
 			Contributors: {
-				CArray: ["Cyden","Eltro","primal cradily","ARTEZZ","somarilnos","Grazloth","hiimahotdog","mrothorr","AKL","mangafreak140"
+				CArray: ["Dopy","Cyden","Eltro","primal cradily","ARTEZZ","somarilnos","Grazloth","hiimahotdog","mrothorr","AKL","mangafreak140"
 				,"acer4321","Sas Assassin","Mysticman89","LeoC.II","Lollipop","Geno","Liraso","Magnusly","Zeckenschwarm","pseudobyte"
 				,"Igorogi","Fonzoland","ivanovichkoslov","dox4242","capito27","Necrodoom","Lapare","Curunur","Tskami_ek","Sum Yung Gai"
 				,"oholoko","Damxacer1","websterguy","LeoB516","CluelessWonder","Doubleshoe","Sc0rp","Heronimo2","RastlinV","Uni"
