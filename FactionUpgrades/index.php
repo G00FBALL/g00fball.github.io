@@ -15,7 +15,7 @@
                 <h6>Fairy</h6>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" align="middle"> Pixie Dust Fertilizer</b></p>
                 <p><b>Mercenary Template</b>: FR1</p>
-                <p><b>Cost</b>: 50 M (5E7)</p>
+                <p><b>Cost</b>: 900 M (5E7)</p>
                 <p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.</p>
                 <p><b>Effect</b>: Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
                 <br/>
