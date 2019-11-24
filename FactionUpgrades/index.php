@@ -13,11 +13,11 @@
             <p onclick="shohid($(this));"><b><a href="#" onclick="return false;">Tier 1 Upgrades</a></b></p>
             <div class="autohide">
                 <h6>Fairy</h6>
-                <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" align="middle"> Pixie Dust Fertilizer</b></p>
-                <p><b>Mercenary Template</b>: FR1</p>
-                <p><b>Cost</b>: 50 M (5E7)</p>
-                <p><b>Effect</b>: Increase the base production of Farms by +98 and reduce the building cost multiplier.</p>
-                <p><b>Effect</b>: Reduces cost multiplier by 0.035; with no other reductions applying, the multiplier will be 1.115 instead of 1.15.</p>
+                <p><b><img src="http://musicfamily.org/realm/Factions/picks/PixieDustFertilizerFactionUpgrade.png" align="middle"> items.FairyUpgrade1.Name</b></p>
+                <p><b>Mercenary Template</b>: items.FairyUpgrade1.MercTemplate</p>
+                <p><b>Cost</b>: items.FairyUpgrade1.Cost</p>
+                <p><b>Effect</b>: items.FairyUpgrade1.Effect1</p>
+                <p><b>Effect</b>: items.FairyUpgrade1.Effect2</p>
                 <br/>
                 <p><b><img src="http://musicfamily.org/realm/Factions/picks/FairyCuisineFactionUpgrade.png" align="middle"> Fairy Cuisine</b></p>
                 <p><b>Mercenary Template</b>: FR2</p>
